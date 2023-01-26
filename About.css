@@ -1,0 +1,77 @@
+ .u-section-1 {
+  background-image: linear-gradient(#e68387, #ff000d);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 555px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 485px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  background-image: linear-gradient(#ff000d, #d9d9d9);
+  height: auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 22px 30px 23px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 186px;
+  height: 186px;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  background-image: url("images/fast-delivery-logo-design-food-service-vector-clipart_csp60235509.jpg");
+  background-position: 50% 50%;
+  margin: 1px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 1.25rem;
+  width: 773px;
+  margin: 18px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: linear-gradient(to right, #e68387, white);
+  border-style: solid;
+  font-weight: 700;
+  font-size: 1.125rem;
+  box-shadow: 0px 2px 6px 0 rgba(0,0,0,0.25);
+  margin: 0 auto;
+  padding: 11px 47px 12px 45px;
+}
+
+.u-section-1 .u-icon-1 {
+  font-size: 0.7em;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-group-1 {
+    height: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    width: 660px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 520px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    width: 320px;
+  }
+}
